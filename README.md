@@ -1,6 +1,8 @@
 # Python 코드로 BGM 만들어보기!
 
-[text](봉명동.m4a)
+<audio controls>
+  <source src="https://github.com/JYPJUN/python_bgm/blob/master/once_in_a_lifetime_se7th.m4a" type="audio/m4a">
+</audio>
 
 - 파일은 playmusic.py 참고
 
