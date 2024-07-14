@@ -1,9 +1,6 @@
 # Python 코드로 BGM 만들어보기!
 
-<audio controls>
-  <source src="https://github.com/JYPJUN/python_bgm/raw/master/once_in_a_lifetime_se7th.m4a" type="audio/m4a">
-</audio>
-
+[음악 실행하기(클릭)](https://github.com/JYPJUN/python_bgm/raw/master/once_in_a_lifetime_se7th.m4a)
 
 - 소스 코드는 playmusic.py 참고
 
