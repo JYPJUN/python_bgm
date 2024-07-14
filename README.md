@@ -1,10 +1,11 @@
 # Python 코드로 BGM 만들어보기!
 
 <audio controls>
-  <source src="https://github.com/JYPJUN/python_bgm/blob/master/once_in_a_lifetime_se7th.m4a" type="audio/m4a">
+  <source src="https://github.com/JYPJUN/python_bgm/raw/master/once_in_a_lifetime_se7th.m4a" type="audio/m4a">
 </audio>
 
-- 파일은 playmusic.py 참고
+
+- 소스 코드는 playmusic.py 참고
 
 - 'music_scale.txt' => 음계 장표
 - 'music1_1_1.txt' => 높은음자리 건반
